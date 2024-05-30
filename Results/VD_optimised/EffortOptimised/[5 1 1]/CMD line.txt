@@ -1,0 +1,114 @@
+MinFitness_phenotype =
+
+   -0.0039    0.0024    1.8088    1.1788
+
+Elapsed time is 22802.382751 seconds.
+Target 1
+
+Ju =
+
+   4.0896e+03
+
+
+Jt =
+
+    5.7377
+
+
+Ja =
+
+    0.0761
+
+
+Jper =
+
+   71.0679
+
+
+Jver =
+
+  975.7594
+
+
+JinVel =
+
+   2.4918e+03
+
+
+J =
+
+   7.6340e+03
+
+
+meanInitVel =
+
+    0.0242
+
+
+v_er =
+
+   -0.0973
+
+
+p_er =
+
+   8.3042e-05
+
+Target 2
+Elapsed time is 22802.537803 seconds.
+>> process_movement(params,VD,10);
+
+
+
+
+%%% INITIAL ANS
+>> main2
+
+Ju =
+
+    0.4355
+
+
+Jt =
+
+    2.5806
+
+
+Ja =
+
+    0.2881
+
+
+Jper =
+
+   1.9479e+10
+
+
+Jver =
+
+     0
+
+
+JinVel =
+
+     0
+
+
+J =
+
+   1.9479e+10
+
+
+meanInitVel =
+
+     0
+
+
+v_er =
+
+     0
+
+
+p_er =
+
+   -1.3748
